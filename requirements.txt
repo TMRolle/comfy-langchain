@@ -1,0 +1,6 @@
+langchain
+transformers
+accelerate
+sentencepiece
+auto-gptq
+optimum
